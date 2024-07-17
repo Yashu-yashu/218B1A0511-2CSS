@@ -1,0 +1,10 @@
+<html>
+    <head>
+    <body bgcolor="Yellow">
+        <body background="wish.jpg"></body>
+        <body text="red"></body>
+        <body leftmargin="30"></body>
+        <h1>Welcome</h1>
+    </head>
+    </body>
+</html>
